@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="373f8c27-ab0e-4823-88f7-df2a839b40c8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculadoraIMC/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculadoraIMC/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gerenciadorDeContasBancarias/ContaBancaria" beforeDir="false" />
-    </list>
+    <list default="true" id="373f8c27-ab0e-4823-88f7-df2a839b40c8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +26,10 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user_acronus/Documents/aprendendoJavaHobby",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -53,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738597361228</updated>
-      <workItem from="1738597370141" duration="297000" />
+      <workItem from="1738597370141" duration="596000" />
     </task>
     <servers />
   </component>
