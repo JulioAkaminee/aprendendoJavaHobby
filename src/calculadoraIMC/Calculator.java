@@ -1,6 +1,6 @@
 import java.util.Scanner; // Importando a classe Scanner para ler o input do usuário
 
-public class Main {
+public class Calculator {
     public static void main(String[] args) {
         Scanner meuObjeto = new Scanner(System.in); // Criando o objeto Scanner
         System.out.println("Cálculo de IMC em JAVA");
